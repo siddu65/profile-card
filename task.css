@@ -47,6 +47,9 @@ h4{
 h5{
     font-size: x-small;
 }
+body{
+    color: red;
+}
 ul{
     font-size: x-small;
     padding-right: 30px;
